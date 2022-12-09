@@ -1,0 +1,91 @@
+
+编程中常用的单词缩写
+
+A
+absolute -> abs
+address -> addr
+application -> app
+argument -> arg
+arguments -> args
+array -> arr
+assemble -> asm
+asynchronize -> async
+attribute -> attr
+attributes -> attrs
+average -> avg
+
+B
+background -> bg
+button -> btn
+buffer -> buf
+
+C
+calculate -> calc
+configure -> conf
+control -> ctrl
+count -> cnt
+current -> curr
+
+D
+database -> db
+delete -> del
+description -> desc
+destination -> dest
+document -> doc
+
+E
+error -> err
+escape -> esc
+
+F
+function -> fn
+
+I
+image -> img
+increment -> inc
+index -> idx
+information -> info
+initialize -> init
+insert -> ins
+
+J
+javascript -> js
+
+L
+length -> len
+library -> lib
+
+M
+manager -> mgr
+message -> msg
+
+N
+number -> num
+
+O
+object -> obj
+option -> opt
+options -> opts
+
+P
+parameter-> param
+password -> pwd
+picture -> pic
+point -> pt
+position -> pos
+previous -> prev
+property -> prop
+
+S
+source -> src
+string -> str
+
+T
+temporary -> tmp
+
+V
+value -> val
+
+W
+window -> wnd
+
